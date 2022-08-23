@@ -18,6 +18,4 @@ fun main(){
     println("Long=$l")
     println("Short=$sh")
     println("Byte=$byte")
-
-
 }
