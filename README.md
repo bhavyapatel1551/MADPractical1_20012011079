@@ -34,8 +34,9 @@ access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCa
 ![Screenshot (65)](https://user-images.githubusercontent.com/110376349/186181501-e61edbf6-85a8-4b0f-af71-a3a8647409bf.png)
 
 
-Experience:
+
 1.Swap Value of two variables without using third variable and with using third variable.
+![Screenshot (68)](https://user-images.githubusercontent.com/110376349/186205918-1bb7cef5-de52-420c-b103-4ea758cb7e66.png)
 
 2. Create two class named as Product and Laptop. Inherit with this information: Product class should be parent and child class should be Laptop class. 
 Add Product Name, Quantity, Amount per Quantity in Product class. In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration. 
