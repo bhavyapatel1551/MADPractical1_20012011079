@@ -29,4 +29,22 @@
 10. Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and ![Screenshot (63)](https://user-images.githubusercontent.com/110376349/186051161-f80e3f1d-016d-47a6-94cd-36da3e77bd56.png)
 access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
 
-11. Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
+11. Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.![Screenshot (64)](https://user-images.githubusercontent.com/110376349/186181517-265785df-205a-4724-ba21-375d13028c67.png)
+
+![Screenshot (65)](https://user-images.githubusercontent.com/110376349/186181501-e61edbf6-85a8-4b0f-af71-a3a8647409bf.png)
+
+
+Experience:
+1.Swap Value of two variables without using third variable and with using third variable.
+
+2. Create two class named as Product and Laptop. Inherit with this information: Product class should be parent and child class should be Laptop class. 
+Add Product Name, Quantity, Amount per Quantity in Product class. In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration. 
+Create primary and secondary Constructor of both class. 
+If Primary constructor is there then can we create secondary constructor in inheritance? 
+If we can create secondary and primary constructor both in child class then what is restriction if parent have more than two different secondary constructor? 
+Create List of 5 laptops in ArrayList and display all objects information.
+
+3.Create two class named as Person and Student. Inherit with this information: Person class should be parent and child class should be Student class. 
+Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. 
+Create primary and secondary Constructor of both class. 
+Create List of 5 students in ArrayList and display all objects information.
