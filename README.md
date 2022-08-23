@@ -43,8 +43,10 @@ Create primary and secondary Constructor of both class.
 If Primary constructor is there then can we create secondary constructor in inheritance? 
 If we can create secondary and primary constructor both in child class then what is restriction if parent have more than two different secondary constructor? 
 Create List of 5 laptops in ArrayList and display all objects information.
+![Screenshot (66)](https://user-images.githubusercontent.com/110376349/186188871-3ff09aff-82ab-4d80-aca7-81ef874644ed.png)
 
 3.Create two class named as Person and Student. Inherit with this information: Person class should be parent and child class should be Student class. 
 Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. 
 Create primary and secondary Constructor of both class. 
 Create List of 5 students in ArrayList and display all objects information.
+![Screenshot (67)](https://user-images.githubusercontent.com/110376349/186188993-327c9b63-2b32-4ea8-8c69-9c0b7ac06279.png)
